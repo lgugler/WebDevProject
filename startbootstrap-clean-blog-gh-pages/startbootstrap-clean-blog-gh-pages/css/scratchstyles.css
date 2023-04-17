@@ -1,0 +1,7 @@
+.common{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center; font-size: 25px}
+.header{height: 100px; background-color: rgb(51, 128, 186); color: rgb(255, 255, 255); line-height: 100px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+.mainbody{background-color: rgb(241, 250, 246) ; color: black; right: 5px; left: 5px; font-size: 25px; list-style-position:inside; text-align: center; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+.centered {text-align: center;}
+.link{ height: 50px; background-color: rgb(209, 246, 254); color: white; line-height:50px; text-align: center}
+.footer{ height: 50 px; font-size: 10px; padding-top: 15px; background-color: rgb(209, 246, 254); color: black; bottom: 0px; right: 5px; left: 5px; 
+    line-height:25px; text-align: center; font-size: 25px; position: fixed; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
